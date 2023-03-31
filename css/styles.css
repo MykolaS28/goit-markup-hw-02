@@ -85,7 +85,7 @@ color: var(--hover-cl);
 .first-s {
     background-color: var(--logo-span);
 }
-.info-h1 {
+.infoh1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -106,10 +106,10 @@ color: var(--hover-cl);
     color: var(--hover-cl);
     background-color: var(--hover-cl);
 }
-.info-h2{
+.infoh2{
     visibility: hidden;
 }
-.info-h3 {
+.infoh3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -122,7 +122,7 @@ color: var(--hover-cl);
     letter-spacing: 0.02em;
     color: var(--contact-cl);
 }
-.info-h21 {
+.infoh21 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -130,7 +130,7 @@ color: var(--hover-cl);
     text-transform: capitalize;
     color: var(--logo-span);
 }
-.sec-4 {
+.sec4 {
     background-color:var(--back-btn-cl);
 }
 .team-back {
