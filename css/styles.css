@@ -94,7 +94,7 @@ color: var(--hover-cl);
 }
 .btn-order {
     background-color: #4D5AE5;
-    font-family: "Raleway",sans-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -104,6 +104,7 @@ color: var(--hover-cl);
 }
 .btn-order:hover, .btn-order:focus {
     color: var(--hover-cl);
+    background-color: var(--hover-cl);
 }
 .info-h2{
     visibility: hidden;
@@ -138,6 +139,6 @@ color: var(--hover-cl);
 .end {
     background-color: var(--logo-span);
 }
-.studio2 {
+.st-footer {
     color: var(--back-btn-cl);
 }
